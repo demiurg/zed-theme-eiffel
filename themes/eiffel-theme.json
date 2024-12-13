@@ -63,24 +63,24 @@
         "editor.invisible": "#a3a3a4ff",
         "editor.wrap_guide": "#383a410d",
         "editor.active_wrap_guide": "#383a411a",
-        "editor.document_highlight.read_background": "#5c78e21a",
+        "editor.document_highlight.read_background": "#5C79E296",
         "editor.document_highlight.write_background": "#a3a3a466",
         "terminal.background": "#fafafaff",
         "terminal.foreground": "#1E1926",
         "terminal.bright_foreground": "#383a41ff",
         "terminal.dim_foreground": "#fafafaff",
         "terminal.ansi.black": "#fafafaff",
-        "terminal.ansi.bright_black": "#aaaaaaff",
-        "terminal.ansi.dim_black": "#383a41ff",
+        "terminal.ansi.bright_black": "#D4D4D4",
+        "terminal.ansi.dim_black": "#4C505F8A",
         "terminal.ansi.red": "#ED0062",
         "terminal.ansi.bright_red": "#FF6943",
         "terminal.ansi.dim_red": "#6f312aff",
         "terminal.ansi.green": "#007E66",
         "terminal.ansi.bright_green": "#00916B",
         "terminal.ansi.dim_green": "#354d2eff",
-        "terminal.ansi.yellow": "#FFB53F",
-        "terminal.ansi.bright_yellow": "#F9F871",
-        "terminal.ansi.dim_yellow": "#786441ff",
+        "terminal.ansi.yellow": "#F59B0A",
+        "terminal.ansi.bright_yellow": "#E2E20F",
+        "terminal.ansi.dim_yellow": "#A28044",
         "terminal.ansi.blue": "#004DDC",
         "terminal.ansi.bright_blue": "#00A1F6",
         "terminal.ansi.dim_blue": "#2d3d75ff",
@@ -136,7 +136,38 @@
         "warning": "#FFB53F",
         "warning.background": "#faf2e6ff",
         "warning.border": "#f4e7d1ff",
-        "players": [],
+        "players": [
+          {
+            "cursor": "#0048A6B6",
+            "background": "#0048A67A",
+            "selection": "#0047A63D"
+          },
+          {
+            "cursor": "#0047A6",       // Slightly darker tone of Eiffel blue
+            "background": "#0047A6",
+            "selection": "#0047A63D"
+          },
+          {
+            "cursor": "#3387D8",       // Lighter sky blue variation
+            "background": "#3387D8",
+            "selection": "#3387D83D"
+          },
+          {
+            "cursor": "#003F8F",       // Deep blue for variety
+            "background": "#003F8F",
+            "selection": "#003F8F3D"
+          },
+          {
+            "cursor": "#1974D2",       // Medium Eiffel-inspired blue
+            "background": "#1974D2",
+            "selection": "#1974D23D"
+          },
+          {
+            "cursor": "#005BAC",       // Subtle muted blue for balance
+            "background": "#005BAC",
+            "selection": "#005BAC3D"
+          }
+        ],
         "syntax": {
           "boolean": {
             "color": "#585CF6",
