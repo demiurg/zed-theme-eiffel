@@ -1,7 +1,7 @@
 id = "eiffel-theme"
 name = "Eiffel Theme"
 description = "A port of the Eiffel Textmate theme."
-version = "0.0.2"
+version = "0.1.0"
 schema_version = 1
 authors = ["Pavel Dorovskoy"]
 repository = "https://github.com/demiurg/zed-theme-eiffel"
