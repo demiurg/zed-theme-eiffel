@@ -17,3 +17,11 @@ because it was applying to every _type_ of a function, declaration, call, etc.
 ## Developpers
 
 Please report any issue and improvement request on the [GitHub](https://github.com/demiurg/zed-eiffel-theme/issues).
+
+## Changes
+
+* 0.1.0
+    * Introduced a dark theme variant
+    * Altered selection colors to be less dark and more readable
+* 0.0.2
+    * Darker terminal colors
