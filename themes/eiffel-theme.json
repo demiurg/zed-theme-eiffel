@@ -204,10 +204,12 @@
             "font_weight": 600
           },
           "emphasis.strong": {
+            "color": "#fafafaff",
             "background_color": "#0000A2",
             "font_weight": 700
           },
           "enum": {
+            "color": "#FAFAFA",
             "background_color": "#BA0091"
           },
           "function": {
@@ -493,11 +495,11 @@
             "font_style": "italic"
           },
           "comment": {
-            "color": "#4ce85c",
+            "color": "#3AD85A",
             "font_style": "italic"
           },
           "comment.doc": {
-            "color": "#4ce85c",
+            "color": "#3AD85A",
             "font_style": "italic"
           },
           "constant": {
@@ -509,15 +511,15 @@
             "font_style": "null"
           },
           "emphasis": {
-            "background_color": "#abadff",
+            "background_color": "#585CF6",
             "font_weight": 600
           },
           "emphasis.strong": {
-            "background_color": "#82b2ff",
+            "background_color": "#0000A2",
             "font_weight": 700
           },
           "enum": {
-            "background_color": "#f961d8"
+            "background_color": "#BA0091"
           },
           "function": {
             "color": "#9bcbff",
@@ -543,7 +545,7 @@
             "color": "#7ce9ff"
           },
           "number": {
-            "color": "#ff8080",
+            "color": "#FF6F6F",
             "font_style": "italic"
           },
           "operator": {
@@ -578,28 +580,28 @@
             "color": "#82b2ff"
           },
           "string": {
-            "color": "#ff8080"
+            "color": "#FF6F6F"
           },
           "string.doc": {
-            "color": "#4ce85c"
+            "color": "#3AD85A"
           },
           "string.escape": {
-            "color": "#ff8080"
+            "color": "#FF6F6F"
           },
           "string.regex": {
-            "color": "#ff8080"
+            "color": "#FF6F6F"
           },
           "string.special": {
-            "color": "#ff8080"
+            "color": "#FF6F6F"
           },
           "string.special.symbol": {
-            "color": "#ff8080"
+            "color": "#FF6F6F"
           },
           "tag": {
             "color": "#f961d8"
           },
           "text.literal": {
-            "color": "#ff8080"
+            "color": "#FF6F6F"
           },
           "type": {
             "color": "#cbd3ffff",

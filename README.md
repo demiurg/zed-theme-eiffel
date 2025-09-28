@@ -20,6 +20,9 @@ Please report any issue and improvement request on the [GitHub](https://github.c
 
 ## Changes
 
+* 0.1.1
+    * Fixed background/foreground contrast ratio for `emphesis` and `enum` styles
+    * Dark themes tweaks, more emphasis on deep blue, less saturated greens
 * 0.1.0
     * Introduced a dark theme variant
     * Altered selection colors to be less dark and more readable
